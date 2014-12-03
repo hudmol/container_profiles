@@ -1,0 +1,25 @@
+en:
+  container_profile:
+    _singular: Container Profile
+    _plural: Container Profiles
+    _frontend:
+      action:
+        save: Save
+        edit: Edit
+        create: New
+      section:
+        basic_information: Basic Information
+    name: Name    
+    url: Url
+    dimension_units: Dimension Units
+    extent_dimension: Extent Dimension
+    depth: Depth
+    height: Height
+    width: Width
+
+  group:
+    permission_types:
+      manage_container_profile_records: create/modify/delete container profile records in this repository
+  validation_errors:
+    container_profile_name_not_unique: already in use
+
