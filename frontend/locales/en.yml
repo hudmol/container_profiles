@@ -23,3 +23,6 @@ en:
   validation_errors:
     container_profile_name_not_unique: already in use
 
+  plugins:
+    container_profiles:
+      label: Container Profiles

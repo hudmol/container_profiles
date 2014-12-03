@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-require_relative 'utils'
-
+require 'db/migrations/utils'
 
 Sequel.migration do
   up do
